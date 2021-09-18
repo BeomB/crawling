@@ -7,12 +7,12 @@ driver = webdriver.Chrome()
 driver.get("https://www.instagram.com/")
 time.sleep(2)
 
-email = 'gowjr1119@daum.net' 
+email = 'email@email.com' 
 input_id = driver.find_elements_by_css_selector('input._2hvTZ.pexuQ.zyHYP')[0]
 input_id.clear()
 input_id.send_keys(email)
 
-password = 'apekekr1!' 
+password = 'password' 
 input_pw = driver.find_elements_by_css_selector('input._2hvTZ.pexuQ.zyHYP')[1]
 input_pw.clear()
 input_pw.send_keys(password)
