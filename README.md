@@ -16,3 +16,9 @@
    
 
 [해당 코드 설명 블로그](https://baam-ki.tistory.com/category/IT/Python)
+
+
+
+
+
+---코드 마음대로 사용 가능합니다.-----
